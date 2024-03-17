@@ -1,24 +1,24 @@
 {
-  "name": "dashcore-build",
+  "name": "bitcore-build-neobytes",
   "version": "1.0.0",
-  "description": "A helper for common tasks to build dashcore modules",
+  "description": "A helper for common tasks to build bitcore-neobytes modules",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dashpay/dashcore-build"
+    "url": "git://github.com/neobytes-project/bitcore-build-neobytes"
   },
   "keywords": [
-    "dash",
-    "dashcore"
+    "neobytes",
+    "bitcore"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dashpay/dashcore-build/issues"
+    "url": "https://github.com/neobytes-projecty/bitcore-build-neobytes/issues"
   },
-  "homepage": "https://github.com/dashpay/dashcore-build",
+  "homepage": "https://github.com/neobytes-project/bitcore-build-neobytes",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
